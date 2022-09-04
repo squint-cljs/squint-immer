@@ -8,5 +8,6 @@
     "clava-immer": "file:."
   },
   "files": ["index.mjs"],
-  "type": "module"
+  "type": "module",
+  "main": "index.mjs"
 }
