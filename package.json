@@ -1,0 +1,12 @@
+{ "name": "clava-immer",
+  "version": "0.0.0-alpha.1",
+  "dependencies": {
+    "clavascript": "^0.0.0-alpha.40",
+    "immer": "^9.0.15"
+  },
+  "devDependencies": {
+    "clava-immer": "file:."
+  },
+  "files": ["index.mjs"],
+  "type": "module"
+}
