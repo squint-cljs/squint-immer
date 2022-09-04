@@ -4,7 +4,7 @@
 
 Create a `package.json`:
 
-```
+``` javascript
 {"dependencies":
  {"clava-immer":"git://github.com/clavascript/clava-immer.git#c303a4744f136137cf2612e440958ca9e55ee721",
   "clavascript":"^0.0.0-alpha.40"}}
